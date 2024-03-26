@@ -9,10 +9,9 @@
 <div>
     <img alt="Cartoon" src="https://i.pinimg.com/originals/4f/c2/0f/4fc20f4623bb673f81b11c7d3e448518.jpg" align="right" width="40%" height="auto"/>
     <p>💡 &nbsp;I'm passionate about how can we solve real problems using technology and criativity.</p>
-    <p>🎓 &nbsp;I'm currently studying IT management at Cesar School.</p>
+    <p>🎓 &nbsp;I'm currently studying Systems Analysis and Development at Cesar School.</p>
     <p>✍🏻 &nbsp;I'm on track for learning more about Software Development, Design Patterns, and Cloud Architecture.</p>
-    <p>📄 &nbsp;Please have a look at my <a href="https://drive.google.com/file/d/1PsdjQVvkbirAFl_mqHi_v7lfZ_6gkD89/view?usp=sharing" target="_blank">Résumé</a> for more details about me. I'm open to feedback and suggestions!</p>
-    <p>✅ &nbsp;Also, feel free to see and test my projects and check out my social medias!</p>
+    <p>✅ &nbsp;Feel free to see and test my projects and check out my social medias!</p>
 </div>
 
 ### 🛠 &nbsp;Tech Stack
@@ -43,8 +42,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <div>
-  <a href="XXXX"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/jamillalobo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>&nbsp;
+  <a href="https://jamillalobo.github.io/personal-site/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>&nbsp;
+  <a href="linkedin.com/in/jamilla-lobo"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>&nbsp;
   <a href="mailto:lobo.jamilla@gmail.com"><img src="https://img.shields.io/badge/e--mail-D14836.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 </div>
 
