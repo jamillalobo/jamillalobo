@@ -43,7 +43,7 @@
 
 <div>
   <a href="https://jamillalobo.github.io/personal-site/"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>&nbsp;
-  <a href="[linkedin.com/in/jamilla-lobo](https://www.linkedin.com/in/jamilla-lobo/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/jamilla-lobo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>&nbsp;
   <a href="mailto:lobo.jamilla@gmail.com"><img src="https://img.shields.io/badge/e--mail-D14836.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 </div>
 
